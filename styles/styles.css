@@ -1,0 +1,57 @@
+nav{
+    margin-left: 60px;
+    margin-right: 60px;
+    display: flex;
+    justify-content: space-between; 
+}
+nav > ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.btn-primary{
+    font-weight: 500;
+    width: 80px;
+    height: 35px;
+    border: none;
+    background-color: orange;
+    border-radius: 10px;
+}
+.banner{
+    padding: 40px;
+    display: flex;
+}
+.btn2{
+    font-weight: 500;
+    width: 100px;
+    height: 35px;
+    color: white;
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+}
+.sp1{
+    color: orange;
+}
+.sp2{
+    color: dodgerblue;
+}
+
+section > .stnd{
+    justify-content: center;
+}
+.container img{
+    padding: 0 auto;
+}
+
+.story{
+    justify-content: center;
+}
+
+footer{
+    display: grid;
+}
+
+@media screen {
+    
+}
